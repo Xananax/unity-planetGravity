@@ -2,6 +2,8 @@
 
 Taken from Sebastian Lague in this [youtube tutorial](https://www.youtube.com/watch?v=gHeQ8Hr92P4) and expanded on.
 
+[test it here](http://xananax.github.io/unity-planetGravity)
+
 ------
 
 ## Goodies
